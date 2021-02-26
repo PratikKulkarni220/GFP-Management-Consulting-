@@ -1,0 +1,49 @@
+.head_div{
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    height: 10%;
+
+}
+
+.text{
+    background-color: darkblue;
+    border-color: darkblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-size:20px ;
+    margin-top: 10px;
+
+}
+
+#logo{
+    margin-top: 7px;
+    margin-right:850px;
+}
+
+#logo:hover{
+    cursor: pointer;
+}
+
+.h11{
+    margin-top: 80px;
+    font-weight: 750;
+    font-size: 50px;
+}
+
+.text_1{
+    font-size: 23px;
+    margin-top: 20px;
+    font-weight: 300;
+ line-height: 1.8;
+}
+
+.photo2{
+border-width: 3px;
+border-radius: 5px;
+border-style: solid;
+border-color:gold;
+}
+
+
